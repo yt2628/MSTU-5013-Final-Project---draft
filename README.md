@@ -1,4 +1,4 @@
-# MSTU 5013 Final Project - draft
+# MSTU 5013 Project Progress
 
 ### Group members: HyunSoo Suh and Yiqun Tao
 ---
