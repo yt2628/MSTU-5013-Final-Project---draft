@@ -12,4 +12,4 @@
 
 ### July 28
 - Reflection video: Video: https://youtu.be/HEuC5YzEH7M
-- Glitch (collaborative app for p5.js):  https://glitch.com/edit/#!/orbits?path=script.js:15:0
+- Glitch (collaborative app for p5.js) project: https://orbits.glitch.me
